@@ -77,6 +77,15 @@ You can click the Preview link to take a look at your changes.
 <p/>
 
 <a href="mailto:c.cerquera.123@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" color="white" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
 Si deseas enviame un correo electronico
 </a>
+</br>
+<a href="https://wa.link/w08q71">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="30" width="30" />
+O un mensaje directo a Whatsapp
+</a>
+</br>
+</br>
+<img align="center" src="https://user-images.githubusercontent.com/81599890/131208135-2448171b-a5f0-4bfc-82ab-67eb9c3a6d0b.png" height="200" width="200" />
+<a href="https://wa.link/w08q71"> <img align="center" src="https://dermotrain.com/wp-content/uploads/2019/08/w.png" height="150" width="150" /></a>
