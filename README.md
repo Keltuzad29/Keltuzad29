@@ -16,42 +16,42 @@ You can click the Preview link to take a look at your changes.
 ## :star: Lenguajes y Herramientas:
 
 <p>
-  <a href="https://lenguajehtml.com/html/">  
+  <a href="https://lenguajehtml.com/html/" target="_blank">  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   </a>
-  <a href="https://lenguajecss.com/css/">
+  <a href="https://lenguajecss.com/css/" target="_blank">
   <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></code>
   </a>  
-  <a href="https://lenguajejs.com/javascript/">
+  <a href="https://lenguajejs.com/javascript/" target="_blank">
   <code><img width="10%" height="50px" src="https://anthoncode.com/wp-content/uploads/2019/01/javascript-logo-png.png"></code>
   </a>
 
-  <a href="https://git-scm.com/doc">
+  <a href="https://git-scm.com/doc" target="_blank">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </a>
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   </a>
-<a href="https://docs.github.com/es">
+<a href="https://docs.github.com/es" target="_blank">
   <code><img width="10%" height="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
   </a>
   <br />
-<a href="https://es.reactjs.org/docs/getting-started.html">
+<a href="https://es.reactjs.org/docs/getting-started.html" target="_blank">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   </a>
-<a href="https://es.redux.js.org/">
+<a href="https://es.redux.js.org/" target="_blank">
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   </a>
-<a href="https://nodejs.org/es/docs/">
+<a href="https://nodejs.org/es/docs/" target="_blank">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   </a>
-<a href="https://expressjs.com/es/">
+<a href="https://expressjs.com/es/" target="_blank">
   <code><img  width="10%" height="50px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/express-routing-logo.png"></code>
   </a>
-<a href="https://www.postgresql.org/docs/">
+<a href="https://www.postgresql.org/docs/" target="_blank">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   </a>
-<a href="https://sequelize.org/">
+<a href="https://sequelize.org/" target="_blank">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   </a>
   <br />
