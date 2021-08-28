@@ -63,10 +63,10 @@ You can click the Preview link to take a look at your changes.
 
 <p>
     <a href="https://www.linkedin.com/in/camilo-cerquera/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
+      <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30" width="30" />
     </a>
     <a href="https://www.facebook.com/C.Cerquera" target="_blank" rel="noreferrer">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" />
+       <img align="center" src="https://bluechem.mx/wp-content/uploads/2017/10/e790c25db5e52838040686612b1a732c-2.png" height="30" width="30" />
      </a>
     <a href="https://twitter.com/CamiloACerquera?s=09">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" />
