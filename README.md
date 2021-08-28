@@ -88,4 +88,4 @@ O un mensaje directo a Whatsapp
 </br>
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/81599890/131208135-2448171b-a5f0-4bfc-82ab-67eb9c3a6d0b.png" height="200" width="200" />
-<a href="https://wa.link/w08q71"> <img align="center" src="https://dermotrain.com/wp-content/uploads/2019/08/w.png" height="150" width="150" /></a>
+<a href="https://wa.link/w08q71"> <img align="center" src="https://dermotrain.com/wp-content/uploads/2019/08/w.png" height="150" width="180" /></a>
