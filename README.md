@@ -19,18 +19,41 @@ You can click the Preview link to take a look at your changes.
   <a href="https://lenguajehtml.com/html/">  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   </a>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <a href="https://lenguajecss.com/css/">
+  <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></code>
+  </a>  
+  <a href="https://lenguajejs.com/javascript/">
+  <code><img width="10%" height="50px" src="https://anthoncode.com/wp-content/uploads/2019/01/javascript-logo-png.png"></code>
+  </a>
+
+  <a href="https://git-scm.com/doc">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+  </a>
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  </a>
+<a href="https://docs.github.com/es">
+  <code><img width="10%" height="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
+  </a>
   <br />
+<a href="https://es.reactjs.org/docs/getting-started.html">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  </a>
+<a href="https://es.redux.js.org/">
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  </a>
+<a href="https://nodejs.org/es/docs/">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  </a>
+<a href="https://expressjs.com/es/">
+  <code><img  width="10%" height="50px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/express-routing-logo.png"></code>
+  </a>
+<a href="https://www.postgresql.org/docs/">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  </a>
+<a href="https://sequelize.org/">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  </a>
   <br />
 </p>
 
