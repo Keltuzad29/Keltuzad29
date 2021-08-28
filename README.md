@@ -69,20 +69,20 @@ You can click the Preview link to take a look at your changes.
        <img align="center" src="https://bluechem.mx/wp-content/uploads/2017/10/e790c25db5e52838040686612b1a732c-2.png" height="30" width="30" />
      </a>
     <a href="https://twitter.com/CamiloACerquera?s=09">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" />
+      <img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" height="30" width="30" />
     </a>
     <a href="https://github.com/Keltuzad29">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
+      <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="30" width="30" />
     </a>
 <p/>
 
 <a href="mailto:c.cerquera.123@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
+<img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" height="30" width="30" />
 Si deseas enviame un correo electronico
 </a>
 </br>
 <a href="https://wa.link/w08q71">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="30" width="30" />
+<img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/WhatsApp-logo.png" height="30" width="30" />
 O un mensaje directo a Whatsapp
 </a>
 </br>
