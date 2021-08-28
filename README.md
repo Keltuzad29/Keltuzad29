@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
     <a href="https://www.facebook.com/C.Cerquera" target="_blank" rel="noreferrer">
-      <i className="fab fa-facebook facebook"></i>
+       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="20" />
      </a>
     <a href="https://twitter.com/CamiloACerquera?s=09">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
@@ -24,3 +24,6 @@ You can click the Preview link to take a look at your changes.
     </a>
 <p/>
 
+<a href="mailto:c.cerquera.123@gmail.com">O si deseas enviame un correo electronico
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
+</a>
