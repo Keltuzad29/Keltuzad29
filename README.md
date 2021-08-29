@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
   <code><img width="50px" height="50px" src="http://www.w3.org/html/logo/downloads/HTML5_1Color_White.png"></code>
   </a>
   <a href="https://lenguajecss.com/css/" target="_blank">
-  <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></code>
+  <code><img width="45px" height="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
   </a>  
   <a href="https://lenguajejs.com/javascript/" target="_blank">
-  <code><img width="10%" height="50px" src="https://anthoncode.com/wp-content/uploads/2019/01/javascript-logo-png.png"></code>
+  <code><img width="40px" height="40px" src="https://seeklogo.com/images/O/ottawa-js-logo-394DB38073-seeklogo.com.png"></code>
   </a>
 
   <a href="https://git-scm.com/doc" target="_blank">
@@ -34,6 +34,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 <a href="https://docs.github.com/es" target="_blank">
   <code><img width="10%" height="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
+  </a>
+<a href="https://www.php.net/docs.php" target="_blank">
+  <code><img width="50px" height="50px" src="http://pngimg.com/uploads/php/php_PNG10.png"></code>
   </a>
   <br />
 <a href="https://es.reactjs.org/docs/getting-started.html" target="_blank">
