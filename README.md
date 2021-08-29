@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 ## :star: Lenguajes y Herramientas:
 
 <p>
-  <a href="https://lenguajehtml.com/html/" target="_blank">  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <a href="https://lenguajehtml.com/html/", target="_blank">  
+  <code><img width="50px" height="50px" src="http://www.w3.org/html/logo/downloads/HTML5_1Color_White.png"></code>
   </a>
   <a href="https://lenguajecss.com/css/" target="_blank">
   <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></code>
