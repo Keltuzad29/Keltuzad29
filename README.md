@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
        <img align="center" src="https://bluechem.mx/wp-content/uploads/2017/10/e790c25db5e52838040686612b1a732c-2.png" height="30" width="30" />
      </a>
     <a href="https://twitter.com/CamiloACerquera?s=09">
-      <img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" height="30" width="35" />
+      <img align="center" src="https://image.jimcdn.com/app/cms/image/transf/none/path/scf4fcb377503c035/image/i6fbc6549edc192d0/version/1410718461/image.png" height="30" width="35" />
     </a>
     <a href="https://github.com/Keltuzad29">
       <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="35" width="40" />
@@ -77,15 +77,15 @@ You can click the Preview link to take a look at your changes.
 <p/>
 
 <a href="mailto:c.cerquera.123@gmail.com">
-<img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" height="30" width="30" />
-Si deseas enviame un correo electronico
+<img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" height="35" width="35" />
+Si deseas enviame un correo electrónico
 </a>
 </br>
 <a href="https://wa.link/w08q71">
-<img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/WhatsApp-logo.png" height="30" width="35" />
+<img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/WhatsApp-logo.png" height="30" width="45" />
 O un mensaje directo a Whatsapp
 </a>
 </br>
 </br>
-<img align="center" src="https://user-images.githubusercontent.com/81599890/131208135-2448171b-a5f0-4bfc-82ab-67eb9c3a6d0b.png" height="200" width="200" />
-<a href="https://wa.link/w08q71"> <img align="center" src="https://dermotrain.com/wp-content/uploads/2019/08/w.png" height="150" width="180" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/81599890/131208135-2448171b-a5f0-4bfc-82ab-67eb9c3a6d0b.png" height="150" width="150" />
+<a href="https://wa.link/w08q71"> <img align="center" src="https://freepngimg.com/download/whatsapp/77163-pakistan-instant-messaging-viber-iphone-internet-zong.png" height="150" width="180" /></a>
