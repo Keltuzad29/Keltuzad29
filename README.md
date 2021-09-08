@@ -59,7 +59,8 @@ You can click the Preview link to take a look at your changes.
   </a>
   <br />
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="camilo-cerquera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/camilo-cerquera?trk=profile-badge">Camilo Andres Cerquera</a></div>
+              
 &nbsp;
 
 <h2>☎️ Me puedes contactar 📳 en: </h2>
