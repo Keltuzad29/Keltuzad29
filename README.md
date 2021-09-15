@@ -13,10 +13,10 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keltuzad29&count_private=true&theme=dark)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=PI-DOGS-FT15A&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Proyect_Movies&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Marvel_App&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Portfolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=PI-DOGS-FT15A&theme=dark)](https://github.com/Keltuzad29/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Proyect_Movies&theme=dark)](https://github.com/Keltuzad29/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Marvel_App&theme=dark)](https://github.com/Keltuzad29/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Portfolio&theme=dark)](https://github.com/Keltuzad29/github-readme-stats)
 
 
 
