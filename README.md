@@ -1,6 +1,6 @@
 # 👋 Hola, 👨‍💻
 
-<img width="100%" height="250px"  src="https://www.intensadigital.com/storage/servicios/diseno-desarrollo-web/desarrollo-web.png">
+<img width="600" src="https://www.intensadigital.com/storage/servicios/diseno-desarrollo-web/desarrollo-web.png">
 
 # Soy Camilo Cerquera! 😎
 
@@ -9,15 +9,20 @@
 <h3 style='text-align: justify'> Me gusta mucho la Programacion y aprender siempre cosas nuevas, incursione en el desarrollo hace tiempo en un curso de sistemas y aprendiendo lo basico de Visual Basic, como todos haciendo mi primer "Hola Mundo", despues me aleje un poco de este mundo y en la universidad estudiando Electronica y Telecomunicaciones vi un par de materias, siempre me emocione mucho cuando los programas funcionaban pero nunca crei que ser Desarrollador iba a ser mi oficio hasta que me enfrente al mercado laboral y no encajaba en ningun lado, luego conoci Henry y aqui estoy aprendiendo cada día mas y especializandome en algo que en realidad me motiva y mueve fibras dentro de mi.
 </h3>
 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keltuzad29&count_private=true&theme=dark)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=PI-DOGS-FT15A&theme=dark)](https://github.com/Keltuzad29/PI-DOGS-FT15A)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Proyect_Movies&theme=dark)](https://github.com/Keltuzad29/Proyect_Movies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Marvel_App&theme=dark)](https://github.com/Keltuzad29/Marvel_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Portfolio&theme=dark)](https://github.com/Keltuzad29/Portfolio)
-
+<p align="left">
+  <a href="https://github.com/Keltuzad29"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Keltuzad29&show_icons=true&theme=dark">
+  <a href="https://github.com/Keltuzad29"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keltuzad29&langs_count=10&layout=compact&theme=dark">
+</p>
+    
+## My repos
+    
+<p align="left">
+  
+   <a href="https://github.com/Keltuzad29/PI-DOGS-FT15A"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=PI-DOGS-FT15A&langs_count=5&theme=dark">
+  <a href="https://github.com/Keltuzad29/Proyect_Movies"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&card_height=300&&repo=Proyect_Movies&langs_count=5&layout=compact&theme=dark">
+  <a href="https://github.com/Keltuzad29/Marvel_App"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Marvel_App&layout=compact&theme=dark">
+  <a href="https://github.com/Keltuzad29/Portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Keltuzad29&repo=Portfolio&hide=html,scss,css&langs_count=10&layout=compact&theme=dark">
+</p>  
 
 
 ## :star: Lenguajes y Herramientas:
