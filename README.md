@@ -1,6 +1,6 @@
 # 👋 Hola, 👨‍💻
 
-<img  src="https://danielrodriguez.info/wp-content/uploads/2015/12/habilidades-desarrollador-web.jpg">
+<img width="600" height="300" src="https://danielrodriguez.info/wp-content/uploads/2015/12/habilidades-desarrollador-web.jpg">
 
 # Soy Camilo Cerquera! 😎
 
